@@ -1,6 +1,8 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_350_1400/0?e=1609372800&v=beta&t=6E5tCS27PQAir7y2vnMPjAmQe85xrTOIVUQT1A72gC0)](https://shivamtiwari12032001.github.io)
 
-<h1 align="center">Hi 👋, I'm Shivam kumar</h1>
+ <h1 align="center"><img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Hi.gif" width="50px">Hey <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://camo.githubusercontent.com/9ba03d053f146a029e7123cb4392c386cb6587a6ccf860c159af83aebf5c6457/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3754636474484f43786f336d65557650676a2f67697068792e676966" width="45px"> 
+ <br>
+ <h1 align="center">Myself  Shivam<img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Developer.gif" width="80px">
+ </h1>
  <h3 align="center"> A Passionate Developer From India 
 
  <p align="center">
