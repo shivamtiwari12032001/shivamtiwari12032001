@@ -1,17 +1,18 @@
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_350_1400/0?e=1609372800&v=beta&t=6E5tCS27PQAir7y2vnMPjAmQe85xrTOIVUQT1A72gC0)](https://shivamtiwari12032001.github.io)
 
 <h1 align="center">Hi 👋, I'm Shivam kumar</h1>
  <h3 align="center"> A Passionate Developer From India 
 
  <p align="center">
    <em>
-     This is Suraj Kumar , a 2nd year undergraduate pursuing B.Tech(cse) from <a href="https://www.globalinstitutes.edu.in"> <b>Global Institute Of Management and emarging Technology</b>,Amritsar</a>. <br>
+     This is Shivam Kumar , a 2nd year undergraduate pursuing B.Tech(Ece) from <a href="https://www.globalinstitutes.edu.in"> <b>National Institute of Technology Hamirpur</b>,Himachal Pradesh</a>. <br>
      An aspiring <b>Full-Stack Web Developer  </b> <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">   and a <b>Competitive Programming Enthusiast, </b>&nbsp;<img src="https://camo.githubusercontent.com/cc8200e9d8619863d6bf5168914c577eba582e7b6dcbf5dc05b9f72d49a90d4a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f376a32686679655663447466322f67697068792e676966" width="50px">&nbsp <br><b>still a learner</b>
      with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Rocket.gif" width="18px">and a
      <b>developer</b> <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Medal.gif" width="20px">&nbsp.
    </em>
  </p>
 
- <img align="right" width=300px alt="Github Cat" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" />
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" data-canonical-src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" style="max-width:100%;">
 
  >&nbsp;*********_Talking about Personal Stuffs:_************* 
 
@@ -33,7 +34,7 @@
 
 - 📫 How to reach me **shivamtiwari12032001@gmail.com**
 
-
+<img align="right" width="300px" alt="Github Cat" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" style="max-width:100%;">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shivam12032001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shivam12032001" height="30" width="40" /></a>
@@ -48,7 +49,7 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamtiwari12032001&theme=tokyonight" alt="shivamtiwari12032001" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamtiwari12032001&show_icons=true&locale=en" alt="shivamtiwari12032001" /></p>
+<img src="https://camo.githubusercontent.com/06307161c3b95f51e685b548f38b9d40afc9e89db15dff511d32779c18c67a1e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d537572616a6b756d6172393830313226636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="GitHub Status" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Surajkumar98012&amp;count_private=true&amp;show_icons=true&amp;theme=radical" style="max-width:100%;">
 
 
 
