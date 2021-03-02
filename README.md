@@ -51,7 +51,7 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamtiwari12032001&theme=tokyonight" alt="shivamtiwari12032001" /></p>
 
-<img src="https://camo.githubusercontent.com/06307161c3b95f51e685b548f38b9d40afc9e89db15dff511d32779c18c67a1e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d537572616a6b756d6172393830313226636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="GitHub Status" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Surajkumar98012&amp;count_private=true&amp;show_icons=true&amp;theme=radical" style="max-width:100%;">
+<img src="https://camo.githubusercontent.com/06307161c3b95f51e685b548f38b9d40afc9e89db15dff511d32779c18c67a1e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d537572616a6b756d6172393830313226636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="GitHub Status" data-canonical-src="https://github-readme-stats.vercel.app/api?username=shivamtiwari12032001&amp;count_private=true&amp;show_icons=true&amp;theme=radical" style="max-width:100%;">
 
 
 
