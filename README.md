@@ -54,7 +54,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamtiwari12032001&show_icons=true&locale=en" alt="shivamtiwari12032001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamtiwari12032001&show_icons=true&locale=en&theme=tokyonight" alt="shivamtiwari12032001" /></p>
 
 
 <p> 🔭 You have finally discovered my Github profile!! 
