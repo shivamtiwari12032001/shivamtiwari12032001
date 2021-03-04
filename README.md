@@ -1,3 +1,5 @@
+![wp1828993](https://user-images.githubusercontent.com/69140693/109988426-85663380-7d2d-11eb-87c9-38905b5bc525.jpg)
+
 
  <h1 align="center"><img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Hi.gif" width="50px">Hey <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://camo.githubusercontent.com/9ba03d053f146a029e7123cb4392c386cb6587a6ccf860c159af83aebf5c6457/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3754636474484f43786f336d65557650676a2f67697068792e676966" width="45px"> 
  <br>
