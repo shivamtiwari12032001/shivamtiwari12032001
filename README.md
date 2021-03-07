@@ -1,7 +1,7 @@
 ![wp1828993](https://user-images.githubusercontent.com/69140693/109988426-85663380-7d2d-11eb-87c9-38905b5bc525.jpg)
 
 
- <h1 align="center"><img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Hi.gif" width="50px">Hey <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://camo.githubusercontent.com/9ba03d053f146a029e7123cb4392c386cb6587a6ccf860c159af83aebf5c6457/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3754636474484f43786f336d65557650676a2f67697068792e676966" width="45px"> 
+ <h1 align="center"><img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Hi.gif" width="50px">Hey <𝚌𝚘𝚍𝚎𝚛𝚜/> !
  <br>
  <h1 align="center">Myself  Shivam<img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Developer.gif" width="80px">
  </h1>
@@ -10,7 +10,7 @@
  <p align="center">
    <em>
      This is Shivam Kumar , a 2nd year undergraduate pursuing B.Tech(Ece) from <a href="https://www.globalinstitutes.edu.in"> <b>National Institute of Technology Hamirpur</b>,Himachal Pradesh</a>. <br>
-     An aspiring <b>Full-Stack Web Developer  </b> <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">   and a <b>Competitive Programming Enthusiast, </b>&nbsp;<img src="https://camo.githubusercontent.com/cc8200e9d8619863d6bf5168914c577eba582e7b6dcbf5dc05b9f72d49a90d4a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f376a32686679655663447466322f67697068792e676966" width="50px">&nbsp <br><b>still a learner</b>
+     An aspiring <b>Full-Stack Web Developer  </b>    and a <b>Competitive Programming Enthusiast, </b>&nbsp;<img src="https://camo.githubusercontent.com/cc8200e9d8619863d6bf5168914c577eba582e7b6dcbf5dc05b9f72d49a90d4a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f376a32686679655663447466322f67697068792e676966" width="50px">&nbsp <br><b>still a learner</b>
      with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Rocket.gif" width="18px">and a
      <b>developer</b> <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Medal.gif" width="20px">&nbsp.
    </em>
